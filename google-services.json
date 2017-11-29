@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546708924041",
+    "firebase_url": "https://emotrack-6f482.firebaseio.com",
+    "project_id": "emotrack-6f482",
+    "storage_bucket": "emotrack-6f482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546708924041:android:fbd790cb65deb3ac",
+        "android_client_info": {
+          "package_name": "com.pavithirakc.emoTrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546708924041-ia5puljgndasv5jp204spvgs336o32uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pavithirakc.emoTrack",
+            "certificate_hash": "9d3404e5cf3b9e4bc5e95b7a7048f31959e0f2dd"
+          }
+        },
+        {
+          "client_id": "546708924041-0ndd1a0jfr3krscvkkjj2il0cl2soqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-kvXy0klLFzUTtezzZxLjkEHi37X1BU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546708924041-0ndd1a0jfr3krscvkkjj2il0cl2soqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
